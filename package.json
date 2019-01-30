@@ -1,0 +1,16 @@
+{
+  "author": "hsanjuan",
+  "bugs": {
+    "url": "https://github.com/googleapis/google-cloud-go"
+  },
+  "gx": {
+    "dvcsimport": "cloud.google.com/go/compute"
+  },
+  "gxVersion": "0.14.0",
+  "language": "go",
+  "license": "Apache-2.0",
+  "name": "google-cloud-go-compute",
+  "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
+  "version": "0.35.1"
+}
+
